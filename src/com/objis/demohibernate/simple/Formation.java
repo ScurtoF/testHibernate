@@ -24,5 +24,10 @@ public class Formation {
 	public Formation(String theme) {
 		super();
 		this.theme = theme;
+	}
+	
+	// Constructeur par defaut
+	public Formation() {
+		super();
 	}	
 }
